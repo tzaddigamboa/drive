@@ -36,3 +36,5 @@ Route::group(['middleware' => ['auth:sanctum']], function () {
 // Route::middleware('auth:api')->get('/user', function (Request $request) {
 //     return $request->user();
 // });
+
+//tzad
